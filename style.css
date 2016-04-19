@@ -1,0 +1,12 @@
+header, footer {
+    color: lightgoldenrodyellow;
+    background-color: #A68064;
+}
+
+body {
+    background-color: #F8ECC2;
+}
+
+footer {
+    padding: 10px;
+}
